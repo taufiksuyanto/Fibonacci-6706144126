@@ -14,3 +14,5 @@ public class Jurnal1 {
         }
     } 
 }
+
+ini sudah diedit
